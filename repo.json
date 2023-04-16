@@ -7,6 +7,15 @@
     
     "RepositoryContents": [
         {
+            "Author": {
+                "Label": "tdquang",
+                "Links": [
+                    {
+                        "Label": "tdquang",
+                        "Link": "https://twitter.com/tdquangg"
+                    }
+                ]
+            },
             "Name": "AssistiveTouch (Untitled UI)",
             "Description": "Give Assistive Touch a new look",
             "Category": "Assistive Touch",
