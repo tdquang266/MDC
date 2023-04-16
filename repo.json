@@ -4,18 +4,20 @@
     "RepositoryAuthor": "tdquang",
     "RepositoryIcon": "https://raw.githubusercontent.com/tdquang266/MDC/main/Assets/repo-image.jpg",
     "RepositoryWebsite": "https://github.com/tdquang266/MDC",
+    "Default": {
+        "Author": {
+            "Label": "tdquang",
+            "Links": [
+                {
+                    "Label": "Twitter",
+                    "Link": "https://twitter.com/tdquangg"
+                }
+            ]
+        },
+        "ViewCount": true
     
     "RepositoryContents": [
         {
-            "Author": {
-                "Label": "tdquang",
-                "Links": [
-                    {
-                        "Label": "tdquang",
-                        "Link": "https://twitter.com/tdquangg"
-                    }
-                ]
-            },
             "Name": "AssistiveTouch (Untitled UI)",
             "Description": "Give Assistive Touch a new look",
             "Category": "Assistive Touch",
