@@ -5,6 +5,7 @@
     "RepositoryIcon": "https://raw.githubusercontent.com/tdquang266/MDC/main/Assets/repo-image.jpg",
     "RepositoryWebsite": "https://github.com/tdquang266/MDC",
     "Default": {
+        "HeaderImage": "https://raw.githubusercontent.com/tdquang266/MDC/main/Assets/banner.jpg",
         "Author": {
             "Label": "tdquang",
             "Links": [
