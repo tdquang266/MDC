@@ -1,0 +1,33 @@
+{
+    "RepositoryName": "tdquang",
+    "RepositoryDescription": "266x153",
+    "RepositoryAuthor": "tdquang",
+    "RepositoryIcon": "https://github.com/tdquang266/MDC/blob/main/Assets/repo-image.jpg",
+    "RepositoryWebsite": "https://github.com/tdquang266/MDC",
+    
+    "RepositoryContents": [
+        {
+            "Name": "AssistiveTouch (Untitled UI)",
+            "Description": "Give Assistive Touch a new look",
+            "Category": "Assistive Touch",
+            "Caption": "Replace boring default Apple icons in Assistive Touch with icons on Untitled UI website",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+            "Icon": "https://github.com/tdquang266/MDC/blob/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/tweak-icon.png",
+            "Screenshot": [
+                "https://github.com/tdquang266/MDC/blob/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/screen-1.jpg",
+                "https://github.com/tdquang266/MDC/blob/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/screen-2.jpg",
+                "https://github.com/tdquang266/MDC/blob/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/screen-3.jpg",
+                "https://github.com/tdquang266/MDC/blob/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/screen-4.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/tdquang266/MDC/tree/main/Tweaks/AssistiveTouch%20(Untitle%20UI%20Icons)/AssistiveTouch.misaka",
+                    "Description": "New Release"
+                }
+            ],
+            "PackageID": "com.tdquang.at-untitled-ui"
+        },
+    ]
+}
