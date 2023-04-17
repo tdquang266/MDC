@@ -41,7 +41,7 @@
                 {
                     "Version": "1.1",
                     "Package": "https://github.com/tdquang266/MDC/raw/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/AssistiveTouch-11.misaka",
-                    "Description": "• Add support for no-notch devices/n• Add support down to iOS 15 (Many thanks to nbxy to testing it 🍀)/n• Total icons to be themed: 24"
+                    "Description": "• Add support for no-notch devices\n• Add support down to iOS 15 (Many thanks to nbxy to testing it 🍀)\n• Total icons to be themed: 24"
                 }
             ],
             "PackageID": "com.tdquang.at-untitled-ui"
