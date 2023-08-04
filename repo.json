@@ -31,7 +31,7 @@
         },
 	{
             "Name": "Nothing Passcode Theme",
-            "Description": "",
+            "Description": "Change passcode theme",
             "Category": "Passcode Theme",
             "Caption": "Change default font of password buttons with font of Nothing",
             "MinIOSVersion": "15.0",
