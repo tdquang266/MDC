@@ -2,10 +2,10 @@
     "RepositoryName": "tdquang",
     "RepositoryDescription": "266x153",
     "RepositoryAuthor": "tdquang",
-    "RepositoryIcon": "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Assets/repo-image.jpg",
+    "RepositoryIcon": "https://raw.githubusercontent.com/tdquang266/MDC/main/Assets/repo-image.jpg",
     "RepositoryWebsite": "https://github.com/tdquang266/MDC",
     "Default": {
-        "HeaderImage": "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Assets/banner.jpg",
+        "HeaderImage": "https://raw.githubusercontent.com/tdquang266/MDC//main/Assets/banner.jpg",
         "Author": {
             "Label": "tdquang",
             "Links": [
@@ -35,7 +35,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/tdquang266/MDC/tree/main/Tweaks/AssistiveTouch%20(Untitle%20UI%20Icons)/AssistiveTouch.misaka",
+                    "Package": "https://github.com/tdquang266/MDC/raw/main/Tweaks/AssistiveTouch%20(Untitle%20UI%20Icons)/AssistiveTouch.misaka",
                     "Description": "New Release"
                 }
             ],
@@ -55,7 +55,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/tdquang266/MDC/tree/main/Tweaks/Nothing%20Passcode%20Theme/NothingPT-10.misaka",
+                    "Package": "https://github.com/tdquang266/MDC/raw/main/Tweaks/Nothing%20Passcode%20Theme/NothingPT-10.misaka",
                     "Description": "New Release"
                 }
             ],
