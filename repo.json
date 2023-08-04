@@ -4,6 +4,19 @@
     "RepositoryAuthor": "tdquang",
     "RepositoryIcon": "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Assets/repo-image.jpg",
     "RepositoryWebsite": "https://github.com/tdquang266/MDC",
+    "Default": {
+        "HeaderImage": "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Assets/banner.jpg",
+        "Author": {
+            "Label": "tdquang",
+            "Links": [
+                {
+                    "Label": "Twitter",
+                    "Link": "https://twitter.com/tdquangg"
+                }
+            ]
+        },
+        "ViewCount": true
+    },
     
     "RepositoryContents": [
         {
@@ -33,7 +46,7 @@
             "Name": "Nothing Passcode Theme",
             "Description": "Change passcode theme",
             "Category": "Passcode Theme",
-            "Caption": "Change default font of passcode buttons with font of Nothing",
+            "Caption": "Change default font of password buttons with font of Nothing",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Icon": "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Tweaks/Nothing%20Passcode%20Theme/tweak-icon.jpg",
@@ -47,7 +60,7 @@
                     "Description": "New Release"
                 }
             ],
-            "PackageID": "com.tdquang.nothing-passcode-theme"
+            "PackageID": "com.tdquang.nothing-password-theme"
         },
     ]
 }
