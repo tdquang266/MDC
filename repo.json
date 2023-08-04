@@ -2,21 +2,9 @@
     "RepositoryName": "tdquang",
     "RepositoryDescription": "266x153",
     "RepositoryAuthor": "tdquang",
-    "RepositoryIcon": "https://raw.githubusercontent.com/tdquang266/MDC/main/Assets/repo-image.jpg",
+    "RepositoryIcon": "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Assets/repo-image.jpg",
     "RepositoryWebsite": "https://github.com/tdquang266/MDC",
-    "Default": {
-        "HeaderImage": "https://raw.githubusercontent.com/tdquang266/MDC/main/Assets/banner.jpg",
-        "Author": {
-            "Label": "tdquang",
-            "Links": [
-                {
-                    "Label": "Twitter",
-                    "Link": "https://twitter.com/tdquangg"
-                }
-            ]
-        },
-        "ViewCount": true
-    },
+    
     "RepositoryContents": [
         {
             "Name": "AssistiveTouch (Untitled UI)",
@@ -25,31 +13,42 @@
             "Caption": "Replace boring default Apple icons in Assistive Touch with icons on Untitled UI website",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "Icon": "https://raw.githubusercontent.com/tdquang266/MDC/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/tweak-icon.png",
+            "Icon": "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/tweak-icon.png",
             "Screenshot": [
-                "https://raw.githubusercontent.com/tdquang266/MDC/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/screen-1.jpg",
-                "https://raw.githubusercontent.com/tdquang266/MDC/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/screen-2.jpg",
-                "https://raw.githubusercontent.com/tdquang266/MDC/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/screen-3.jpg",
-                "https://raw.githubusercontent.com/tdquang266/MDC/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/screen-4.jpg"
+                "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/screen-1.jpg",
+                "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/screen-2.jpg",
+                "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/screen-3.jpg",
+                "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/screen-4.jpg"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/tdquang266/MDC/raw/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/AssistiveTouch.misaka",
+                    "Package": "https://github.com/tdquang266/MDC/tree/main/Tweaks/AssistiveTouch%20(Untitle%20UI%20Icons)/AssistiveTouch.misaka",
                     "Description": "New Release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://github.com/tdquang266/MDC/raw/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/AssistiveTouch-11.misaka",
-                    "Description": "• Add support for no-notch devices\n\n• Add support down to iOS 15 (Many thanks to nbxy to testing it 🍀)\n\n• Total icons to be themed: 24"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://github.com/tdquang266/MDC/raw/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/AssistiveTouch-12.misaka",
-                    "Description": "Add 3 more icons"
                 }
             ],
             "PackageID": "com.tdquang.at-untitled-ui"
+        },
+	
+	{
+            "Name": "Nothing Passcode Theme",
+            "Description": "",
+            "Category": "Passcode Theme",
+            "Caption": "Change default font of password buttons with font of Nothing",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Icon": "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Tweaks/Nothing%20Passcode%20Theme/tweak-icon.png",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Tweaks/Nothing%20Passcode%20Theme/screen-1.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/tdquang266/MDC/tree/main/Tweaks/Nothing%20Passcode%20Theme/NothingPT-10.misaka",
+                    "Description": "New Release"
+                }
+            ],
+            "PackageID": "com.tdquang.nothing-password-theme"
         },
     ]
 }
