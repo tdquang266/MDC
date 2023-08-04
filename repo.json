@@ -37,9 +37,9 @@
             "Caption": "Change default font of password buttons with font of Nothing",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "Icon": "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Tweaks/Nothing%20Passcode%20Theme/tweak-icon.png",
+            "Icon": "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Tweaks/Nothing%20Passcode%20Theme/tweak-icon.jpg",
             "Screenshot": [
-                "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Tweaks/Nothing%20Passcode%20Theme/screen-1.png"
+                "https://raw.githubusercontent.com/tdquang266/MDC/blob/main/Tweaks/Nothing%20Passcode%20Theme/screen-1.jpg"
             ],
             "Releases": [
                 {
