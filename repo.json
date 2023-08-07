@@ -91,5 +91,26 @@
             ],
             "PackageID": "com.tdquang.kroppen-passcode-theme"
         },
+        {
+            "Name": "Guang Zhang UI",
+            "Description": "Change lockscreen shortcut icons",
+            "Category": "LS Shortcut Icons",
+            "Caption": "Change lockscreen shortcut icons",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "17.0",
+            "Icon": "https:\/\/raw.githubusercontent.com\/tdquang266\/MDC\/main\/Tweaks\/Guang%20Zhang%20UI\/tweak-icon.png",
+            "Screenshot": [
+                "https:\/\/raw.githubusercontent.com\/tdquang266\/MDC\/main\/Tweaks\/Guang%20Zhang%20UI\/screen-1.png",
+                "https:\/\/raw.githubusercontent.com\/tdquang266\/MDC\/main\/Tweaks\/Guang%20Zhang%20UI\/screen-2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https:\/\/github.com\/tdquang266\/MDC\/raw\/main\/Tweaks\/Guang%20Zhang%20UI\/GuangZhangUI-10.misaka",
+                    "Description": "New Release"
+                }
+            ],
+            "PackageID": "com.tdquang.guangzhang-ui"
+        },
     ]
 }
