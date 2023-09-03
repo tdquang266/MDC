@@ -24,7 +24,7 @@
             "Category": "Assistive Touch",
             "Caption": "Replace boring default Apple icons in Assistive Touch with icons on Untitled UI website",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "17.0",
             "Icon": "https://raw.githubusercontent.com/tdquang266/MDC/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/tweak-icon.png",
             "Screenshot": [
                 "https://raw.githubusercontent.com/tdquang266/MDC/main/Tweaks/AssistiveTouch%20(Untitled%20UI%20Icons)/screen-1.jpg",
